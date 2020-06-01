@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BuildingMadLibsGame": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
